@@ -57,7 +57,6 @@ Open http://localhost:3000
 
 | User | Password | Role |
 |------|----------|------|
-| admin | bedwars123 | Admin (full access) |
 | StormKing | demo123 | Player |
 | ShadowBlade | demo123 | Player |
 | NightReaper | demo123 | Player |
